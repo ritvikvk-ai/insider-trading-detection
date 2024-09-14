@@ -1,2 +1,2 @@
-# insider-trading-detection
+# Insider Trading Detection
 ** Site under update **
